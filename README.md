@@ -1,0 +1,3 @@
+# EXERCICIO CRIANDO JOGO GENIUS
+
+## praticando o JS
