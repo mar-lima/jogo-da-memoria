@@ -35,18 +35,15 @@ export const InfoArea = styled.div`
     display: flex;
     justify-content: space-around;
     text-align: center;
-    
   }
 `;
 export const GridArea = styled.div`
   flex: 1;
   display: flex;
   justify-content: flex-end;
-  background-color: #ff0000;
 
   @media (max-width: 750px) {
     justify-content: center;
     margin: 0 20px;
-    
   }
 `;
